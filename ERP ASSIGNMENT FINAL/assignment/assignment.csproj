@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{24BE0EEA-349B-4A6C-A1C5-B8F683A50F51}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>assignment</RootNamespace>
+    <AssemblyName>assignment</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Sadaf\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>C3A454B85C93F8F2ED69C9840D29EDDC054F267D</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>assignment_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addcustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addcustomer.Designer.cs">
+      <DependentUpon>addcustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addvendor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addvendor.Designer.cs">
+      <DependentUpon>addvendor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="approved.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="approved.Designer.cs">
+      <DependentUpon>approved.cs</DependentUpon>
+    </Compile>
+    <Compile Include="connection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="connection.Designer.cs">
+      <DependentUpon>connection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customer.Designer.cs">
+      <DependentUpon>customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dc.Designer.cs">
+      <DependentUpon>dc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eidtvendor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eidtvendor.Designer.cs">
+      <DependentUpon>eidtvendor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="grn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grn.Designer.cs">
+      <DependentUpon>grn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Invoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Invoice.Designer.cs">
+      <DependentUpon>Invoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ir.Designer.cs">
+      <DependentUpon>ir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="po.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="po.Designer.cs">
+      <DependentUpon>po.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pofinal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pofinal.Designer.cs">
+      <DependentUpon>pofinal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="salesorder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="salesorder.Designer.cs">
+      <DependentUpon>salesorder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SC.Designer.cs">
+      <DependentUpon>SC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="so.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="so.Designer.cs">
+      <DependentUpon>so.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vsearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vsearch.Designer.cs">
+      <DependentUpon>vsearch.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="addcustomer.resx">
+      <DependentUpon>addcustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addvendor.resx">
+      <DependentUpon>addvendor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="approved.resx">
+      <DependentUpon>approved.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="connection.resx">
+      <DependentUpon>connection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customer.resx">
+      <DependentUpon>customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dc.resx">
+      <DependentUpon>dc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eidtvendor.resx">
+      <DependentUpon>eidtvendor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grn.resx">
+      <DependentUpon>grn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Invoice.resx">
+      <DependentUpon>Invoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ir.resx">
+      <DependentUpon>ir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="po.resx">
+      <DependentUpon>po.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pofinal.resx">
+      <DependentUpon>pofinal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="salesorder.resx">
+      <DependentUpon>salesorder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SC.resx">
+      <DependentUpon>SC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="so.resx">
+      <DependentUpon>so.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vsearch.resx">
+      <DependentUpon>vsearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="assignment_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\polygon-wallpaper-5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orange-and-black-background-11558.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forward_button-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_276337.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_2763371.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1 %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vintage-wallpaper-green.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue-Radial-Gradient-800x600.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue-Radial-Gradient-800x6001.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue-Radial-Gradient-800x6002.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue-Radial-Gradient-800x6003.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue-Radial-Gradient-800x6004.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue-Radial-Gradient-800x6005.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue-Radial-Gradient-800x6006.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\light-blue-tech-geometric-polygonal-motion-background-video-corporate-animation-hd-1920x1080_nde0ffkig__F0000.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue-Radial-Gradient-800x6007.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

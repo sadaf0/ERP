@@ -1,0 +1,49 @@
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\bin\Release\assignment.exe
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\bin\Release\assignment.pdb
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Release\ResolveAssemblyReference.cache
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Release\assignment.addvendor.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Release\assignment.approved.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Release\assignment.connection.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Release\assignment.dc.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Release\assignment.eidtvendor.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Release\assignment.Form1.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Release\assignment.grn.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Release\assignment.Invoice.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Release\assignment.ir.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Release\assignment.po.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Release\assignment.Properties.Resources.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Release\assignment.purchaseorder.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Release\assignment.salesorder.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Release\assignment.so.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Release\assignment.vstart.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Release\GenerateResource.read.1.tlog
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Release\GenerateResource.write.1.tlog
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Release\assignment.exe
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Release\assignment.pdb
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\bin\Release\assignment.exe.manifest
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\bin\Release\assignment.application
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\bin\Release\assignment.exe
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\bin\Release\assignment.pdb
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\obj\x86\Release\assignment.addcustomer.resources
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\obj\x86\Release\assignment.addvendor.resources
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\obj\x86\Release\assignment.approved.resources
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\obj\x86\Release\assignment.connection.resources
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\obj\x86\Release\assignment.customer.resources
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\obj\x86\Release\assignment.dc.resources
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\obj\x86\Release\assignment.eidtvendor.resources
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\obj\x86\Release\assignment.Form1.resources
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\obj\x86\Release\assignment.grn.resources
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\obj\x86\Release\assignment.Invoice.resources
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\obj\x86\Release\assignment.ir.resources
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\obj\x86\Release\assignment.po.resources
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\obj\x86\Release\assignment.pofinal.resources
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\obj\x86\Release\assignment.Properties.Resources.resources
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\obj\x86\Release\assignment.salesorder.resources
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\obj\x86\Release\assignment.SC.resources
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\obj\x86\Release\assignment.so.resources
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\obj\x86\Release\assignment.vstart.resources
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\obj\x86\Release\assignment.csproj.GenerateResource.Cache
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\obj\x86\Release\assignment.exe.manifest
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\obj\x86\Release\assignment.application
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\obj\x86\Release\assignment.exe
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\obj\x86\Release\assignment.pdb

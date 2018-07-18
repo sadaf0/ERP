@@ -1,0 +1,30 @@
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Debug\assignment.exe
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Debug\assignment.pdb
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\bin\Debug\assignment.exe
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\bin\Debug\assignment.pdb
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Debug\assignment.addcustomer.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Debug\assignment.addvendor.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Debug\assignment.approved.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Debug\assignment.connection.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Debug\assignment.customer.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Debug\assignment.dc.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Debug\assignment.eidtvendor.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Debug\assignment.Form1.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Debug\assignment.grn.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Debug\assignment.Invoice.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Debug\assignment.ir.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Debug\assignment.po.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Debug\assignment.Properties.Resources.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Debug\assignment.salesorder.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Debug\assignment.SC.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Debug\assignment.so.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Debug\assignment.vstart.resources
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Debug\assignment.csprojResolveAssemblyReference.cache
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Debug\assignment.csproj.GenerateResource.Cache
+D:\SADAF UNIVERSITY\SSSS\assignment\assignment\obj\x86\Debug\assignment.pofinal.resources
+D:\DVD WRITE ALL WORK\assignment\assignment\obj\x86\Debug\assignment.exe
+D:\DVD WRITE ALL WORK\assignment\assignment\obj\x86\Debug\assignment.pdb
+D:\DVD WRITE ALL WORK\ERP ASSIGNMENT FINAL\assignment\obj\x86\Debug\assignment.exe
+D:\DVD WRITE ALL WORK\ERP ASSIGNMENT FINAL\assignment\obj\x86\Debug\assignment.pdb
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\obj\x86\Debug\assignment.exe
+D:\Sadaf Projects All VP\ERP ASSIGNMENT FINAL\assignment\obj\x86\Debug\assignment.pdb
